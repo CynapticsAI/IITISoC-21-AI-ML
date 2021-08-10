@@ -19,7 +19,7 @@
 
 ## PROJECT LIST
 1. [News Articles Summarizer in Multiple Languages](https://github.com/snehithchinta/ML3-News-Article-Summarizer)
-#Description:# Develop an effective end to end solution which accepts informative articles
+: Develop an effective end to end solution which accepts informative articles
 in common languages used in India and summarizes them with a proper headline.
 Further, as an addition, it should also be able to answer questions regarding the article
 to the user.
@@ -32,7 +32,7 @@ to the user.
         > * [Aryan Rastogi](http://github.com/aryan-r22)
         > * [Vardhan Paliwal](https://github.com/Vardhan-08)
 2. [Sentiment Analysis and Emotion Detection](https://github.com/abhijitpanda890/ML1-Sentiment-analysis-and-emotion-detection-.git)
-#Description:# A model to gauge Sentiment of a given text/review. Additionally, it must be
+: A model to gauge Sentiment of a given text/review. Additionally, it must be
 able to detect emotions in the underlying text.
      * #### *Team ML1 Contributers*
         > * [Sanjit Vyas]()
@@ -43,7 +43,7 @@ able to detect emotions in the underlying text.
         > * [Vardhan Paliwal](https://github.com/Vardhan-08)
 
 3. [Image Captioning/ Video Summarizer](https://github.com/sid521/ML8-ImageCaptioning)
-#Description:# Caption an image using DNN (Transfer Learning). Additionally, this project
+: Caption an image using DNN (Transfer Learning). Additionally, this project
 can be extended to Video Summarization using NLP.
     * #### *Team ML8 Contributers*
         > * [Aditya Gouroju]()
