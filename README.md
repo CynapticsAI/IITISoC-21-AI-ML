@@ -1,19 +1,19 @@
 # **IITISoC'21** 
 ![IITISoC'21-Logo](./IITISoC_Logo.png/)
-> IITISoC'20 is the annual dev Fest of IIT Indore to introduce the students to Software development and open source. The student work upon multiple open source project and they are mentored by experienced developers. The pattern followed by IITISoC is similar to GSoC so that the students get an idea of what GSoC is and how it works. 
+> IITISoC'20 is the annual dev Fest of IIT Indore which provides various opportunities to students to wok with cutting edge technologies in the domains of Web/App development, and Artificial Intelligence and Machine Learning. The participant teams are guided by a group of mentors, and are comprehensively evaluated at every step. This event is modelled on the pattern of GSoC, to inculcate in students an appreciation of open source and new technologies.
 ---
 
 ## ORGANISERS AND COORDINATORS
-### [Programming Club IIT Indore](http://progclub.iiti.ac.in/)
-* [Anmol Gomra](https://Github.com/pineapple45) (President)
-* [Miten Shah](https://github.com/mtnshh) (President)
+### [Cynaptics Club IIT Indore]
+### [The Programming Club IIT Indore]  
+### [Google Developer Students Club IIT Indore]  
 ---
 
 ### Event Timeline
-***30th July - 5th Sept 2020***
+***15th July - 10th August 2021***
 
 ### Total Members
-***~120***
+***~160***  
 
 ---
 
