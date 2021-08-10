@@ -1,12 +1,18 @@
 # **IITISoC'21 (AI/ML)** 
 <img src="./IITISoC_Logo.png"  height="200">
-> IITISoC'20 is the annual dev Fest of IIT Indore which provides various opportunities to students to wok with cutting edge technologies in the domains of Web/App development, and Artificial Intelligence and Machine Learning. The participant teams are guided by a group of mentors, and are comprehensively evaluated at every step. This event is modelled on the pattern of GSoC, to inculcate in students an appreciation of open source and new technologies.
+> IITISoC'20 is the annual dev Fest of IIT Indore which provides various opportunities to students to wok with cutting edge technologies in the domains of Web/App development, and Artificial Intelligence and Machine Learning. The participant teams are guided by a group of mentors, and are comprehensively evaluated at every step. This event is modelled on the pattern of GSoC, to inculcate in students an appreciation of open source and new technologies.  
+
 ---
 
-## ORGANISERS AND COORDINATORS
+## ORGANISERS
 ### [The Cynaptics Club IIT Indore]
 ### [The Programming Club IIT Indore]  
 ### [Google Developer Students Club IIT Indore]  
+
+## COORDINATORS  
+* [Akash Gupta](https://github.com/akashg3627) (President, The Programming Club)  
+* [Aryan Rastogi](https://github.com/aryan-r22) (President, The Cynpatics Club)  
+
 ---
 
 ### Event Timeline
