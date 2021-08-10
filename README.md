@@ -54,7 +54,7 @@ can be extended to Video Summarization using NLP.
         > * [Bharat Kumar Gupta](https://github.com/bharat18001)
         > * [Kashish Bansal](https://www.github.com/kashi-123)
         > * [Sakshee Patil](https://github.com/Sakshee5)
-4.a. [Stone, Paper, Scissors](https://github.com/tanishq150802/ML7-RockPaperScissorGAME)
+4a. [Stone, Paper, Scissors](https://github.com/tanishq150802/ML7-RockPaperScissorGAME)
 #Description:# Implement simple game using CV.
     * #### *Team ML7 Contributers*
         > * [Tanishq Selot]()
@@ -65,7 +65,7 @@ can be extended to Video Summarization using NLP.
         > * [Bharat Kumar Gupta](https://github.com/bharat18001)
         > * [Kashish Bansal](https://www.github.com/kashi-123)
         > * [Sakshee Patil](https://github.com/Sakshee5)
-4.b. [Stone, Paper, Scissors](https://github.com/anir-ab/ML18_Rock-Paper-Scissors-using-CV)
+4b. [Stone, Paper, Scissors](https://github.com/anir-ab/ML18_Rock-Paper-Scissors-using-CV)
 #Description:# Implement simple game using CV.
     * #### *Team ML18 Contributers*
         > * [Anirudha Bhagwat]()
@@ -75,7 +75,7 @@ can be extended to Video Summarization using NLP.
         > * [Bharat Kumar Gupta](https://github.com/bharat18001)
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Siddhesh Shelke](http://github.com/sids-09)
-4.c. [Stone, Paper, Scissors](https://github.com/dedeepya2608/ML_19-ROCK_PAPER_SCISSORS)
+4c. [Stone, Paper, Scissors](https://github.com/dedeepya2608/ML_19-ROCK_PAPER_SCISSORS)
 #Description:# Implement simple game using CV.
      * #### *Team ML19 Contributers*
         > * [Divya Dedeepya Ankam]()
@@ -86,7 +86,7 @@ can be extended to Video Summarization using NLP.
         > * [Bharat Kumar Gupta](https://github.com/bharat18001)
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Siddhesh Shelke](http://github.com/sids-09)
-5.a. [Face Mask Detecttion](https://github.com/MihirK1212/ML4_Face-Mask-Detection)
+5a. [Face Mask Detecttion](https://github.com/MihirK1212/ML4_Face-Mask-Detection)
 #Description:# Detects whether a person is wearing a face mask or not.
      * #### *Team ML4 Contributers*
         > * [Mihir Karandikar]()
@@ -97,7 +97,7 @@ can be extended to Video Summarization using NLP.
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Rama Edlabadkar](https://github.com/skybluee2001)
         > * [Siddhesh Shelke](http://github.com/sids-09)
-5.b. [Face Mask Detecttion](https://github.com/Paarth002/Face-Mask-Detection)
+5b. [Face Mask Detecttion](https://github.com/Paarth002/Face-Mask-Detection)
 #Description:# Detects whether a person is wearing a face mask or not.
     * #### *Team ML5 Contributers*
         > * [Parth Bhore](https://Github.com/vvkbhshn)
@@ -107,7 +107,7 @@ can be extended to Video Summarization using NLP.
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Rama Edlabadkar](https://github.com/skybluee2001)
         > * [Siddhesh Shelke](http://github.com/sids-09)
-5.c. [Face Mask Detecttion](https://github.com/Sahas17/ML6-Face-Mask-Detection.git)
+5c. [Face Mask Detecttion](https://github.com/Sahas17/ML6-Face-Mask-Detection.git)
 #Description:# Detects whether a person is wearing a face mask or not.
     * #### *Team ML6 Contributers*
         > * [Omkar singh]()
@@ -116,7 +116,7 @@ can be extended to Video Summarization using NLP.
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Rama Edlabadkar](https://github.com/skybluee2001)
         > * [Siddhesh Shelke](http://github.com/sids-09)
-6.a. [Loan Status Prediction](https://github.com/Harshith1302/ML13_LoanStatusPrediction)
+6a. [Loan Status Prediction](https://github.com/Harshith1302/ML13_LoanStatusPrediction)
 #Description:# Predicts whether the user got the loan or not based on the features like
 education, marital status, income, dependents etc.
     * #### *Team ML13 Contributers*
@@ -127,7 +127,7 @@ education, marital status, income, dependents etc.
     * #### *Mentors ML13*
         > * [Manav Trivedi](https://github.com/manavspg2)
         > * [Sakshi Pandey](https://github.com/sakshi012000)
-6.b. [Loan Status Prediction](https://github.com/Safdar16/ML14_Loan_Status.git)
+6b. [Loan Status Prediction](https://github.com/Safdar16/ML14_Loan_Status.git)
 #Description:# Predicts whether the user got the loan or not based on the features like
 education, marital status, income, dependents etc.
     * #### *Team ML14 Contributers*
@@ -137,7 +137,7 @@ education, marital status, income, dependents etc.
     * #### *Mentors ML14*
         > * [Manav Trivedi](https://github.com/manavspg2)
         > * [Sakshi Pandey](https://github.com/sakshi012000)
-7.a. [Recommendation System with Spoiler Detection](https://github.com/a1-njos3/ML15_Recommendation-System-with-Spoiler-Detection)
+7a. [Recommendation System with Spoiler Detection](https://github.com/a1-njos3/ML15_Recommendation-System-with-Spoiler-Detection)
 #Description:# Can additionally do spoiler detection in reviews and hiding(some web dev related stuff).
     * #### *Team ML15 Contributers*
         > * [Alan Jose]()
@@ -146,7 +146,7 @@ education, marital status, income, dependents etc.
     * #### *Mentors ML15*
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Rama Edlabadkar](https://github.com/skybluee2001)
-7.b. [Recommendation System with Spoiler Detection](https://github.com/Saurav-Raghaw/ML16-Recommendation-Sysytem)
+7b. [Recommendation System with Spoiler Detection](https://github.com/Saurav-Raghaw/ML16-Recommendation-Sysytem)
 #Description:# Can additionally do spoiler detection in reviews and hiding(some web dev related stuff).
     * #### *Team ML16 Contributers*
         > * [Saurav Kumar]()
@@ -164,7 +164,7 @@ education, marital status, income, dependents etc.
     * #### *Mentors ML11*
         > * [Manav Trivedi](https://github.com/manavspg2)
         > * [Rahul Kumar](https://github.com/ronnie-36)
-9.a. [Face Recognition](https://github.com/Nischit290402/Face_Recog.git)
+9a. [Face Recognition](https://github.com/Nischit290402/Face_Recog.git)
 #Description:# Recognize faces in an image using one shot learning. Additionally, develop
 a web interface for the same.
     * #### *Team ML9 Contributers*
@@ -175,7 +175,7 @@ a web interface for the same.
         > * [Anjali Singhal](https://github.com/anjiii-18)
         > * [Bharat Kumar Gupta](https://github.com/bharat18001)
         > * [Miten Shah](http://github.com/mtnshh)
-9.b. [Face Recognition](https://github.com/ML10-Project/Face-Recognition)
+9b. [Face Recognition](https://github.com/ML10-Project/Face-Recognition)
 #Description:# Recognize faces in an image using one shot learning. Additionally, develop
 a web interface for the same.
     * #### *Team ML10 Contributers*
