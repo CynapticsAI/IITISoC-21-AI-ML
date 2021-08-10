@@ -13,7 +13,7 @@
 ***15th July - 10th August 2021***
 
 ### Total Members
-***~160***  
+***~160 participants across 40+ teams***  
 
 ---
 
