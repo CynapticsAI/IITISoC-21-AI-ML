@@ -4,12 +4,12 @@ IITISoC'21 is the annual dev fest of IIT Indore which provides various opportuni
 
 ---
 
-## ORGANISERS
+## Organizers
 ### [The Cynaptics Club IIT Indore]
 ### [The Programming Club IIT Indore]  
 ### [Google Developer Students Club IIT Indore]  
 
-## COORDINATORS  
+## Coordinators 
 * [Akash Gupta](https://github.com/akashg3627) (President, The Programming Club)  
 * [Aryan Rastogi](https://github.com/aryan-r22) (President, The Cynpatics Club)  
 
@@ -21,9 +21,14 @@ IITISoC'21 is the annual dev fest of IIT Indore which provides various opportuni
 ### Total Members
 ***~160 participants across 40+ teams***  
 
+### YouTube Link of the presentation round for Top 7 teams:  
+**https://youtu.be/VPjnwI9W-rU**
+
 ---
 
-## PROJECT LIST (AI/ML)
+
+
+## List of Projects (AI/ML)
 1. [News Articles Summarizer in Multiple Languages](https://github.com/snehithchinta/ML3-News-Article-Summarizer)
 : Develop an effective end to end solution which accepts informative articles
 in common languages used in India and summarizes them with a proper headline.
