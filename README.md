@@ -1,6 +1,6 @@
 # **IITISoC'21 (AI/ML)** 
-<img src="./IITISoC_Logo.png"  height="200">
-> IITISoC'20 is the annual dev Fest of IIT Indore which provides various opportunities to students to wok with cutting edge technologies in the domains of Web/App development, and Artificial Intelligence and Machine Learning. The participant teams are guided by a group of mentors, and are comprehensively evaluated at every step. This event is modelled on the pattern of GSoC, to inculcate in students an appreciation of open source and new technologies.  
+<img src="./IITISoC_Logo.png"  height="200">  
+IITISoC'21 is the annual dev fest of IIT Indore which provides various opportunities to students to work with cutting edge technologies in the domains of Web/App development, Artificial Intelligence and Machine Learning. The participant teams are guided by a group of mentors, and are comprehensively evaluated at every step. This event is modelled on the pattern of GSoC, to inculcate in students an appreciation of open source and new technologies.  
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-## PROJECT LIST
+## PROJECT LIST (AI/ML)
 1. [News Articles Summarizer in Multiple Languages](https://github.com/snehithchinta/ML3-News-Article-Summarizer)
 : Develop an effective end to end solution which accepts informative articles
 in common languages used in India and summarizes them with a proper headline.
