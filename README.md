@@ -18,142 +18,179 @@
 ---
 
 ## PROJECT LIST
-1. [Hostel attendance system](https://github.com/kushaangowda/IITISoC---Attendance-Tool)
-    * #### *Contributers*
-        > * [Kushaan Gowda](https://Github.com/kushaangowda)
-        > * [Vaibhav Chandra](https://Github.com/vaibhavviking)
-        > * [Ashwin]()
-        > * [Hasan]()
-        > * [Gautam]()
-        > * [Satyabhagavan]()
-    * #### *Mentors*
-        > * [Anmol Gomra](https://Github.com/pineapple45)
-1. [Face Recognition using Siamese Network](https://github.com/Team-Ragnarok/Face_Detection)
-     * #### *Contributers*
-        > * [Aryan Rastogi](https://Github.com/aryan-r22)
-        > * [Aditya Bharadwaj]()
-        > * [Ashish Gautam](https://Github.com/geek-ash)
-        > * [Bharat Gupta](https://Github.com/bharat18001)
-        > * [Purnadip Chakrabarti](https://Github.com/ChakPC)
-        > * [Vardhan Paliwal](https://Github.com/Vardhan-08)
-    * #### *Mentors*
-        > * [Pranshu Maheshwari](https://Github.com/pranshumaheshwari)
-        > * [Aditi Chauhan](https://Github.com/aditi1709)
+1. [News Articles Summarizer in Multiple Languages](https://github.com/snehithchinta/ML3-News-Article-Summarizer)
+#Description:# Develop an effective end to end solution which accepts informative articles
+in common languages used in India and summarizes them with a proper headline.
+Further, as an addition, it should also be able to answer questions regarding the article
+to the user.
+    * #### *Team ML3 Contributers*
+        > * [Snehith Chinta]()
+        > * [Kothuru Sharvani]()
+        > * [Shivani Rajaputhra]()
+        > * [Siddartha Chennareddy]()
+    * #### *Mentors ML3*
+        > * [Aryan Rastogi](http://github.com/aryan-r22)
+        > * [Vardhan Paliwal](https://github.com/Vardhan-08)
+2. [Sentiment Analysis and Emotion Detection](https://github.com/abhijitpanda890/ML1-Sentiment-analysis-and-emotion-detection-.git)
+#Description:# A model to gauge Sentiment of a given text/review. Additionally, it must be
+able to detect emotions in the underlying text.
+     * #### *Team ML1 Contributers*
+        > * [Sanjit Vyas]()
+        > * [Abhijit Panda]()
+        > * [Nilay Kushawaha]()
+    * #### *Mentors ML1*
+        > * [Aryan Rastogi](http://github.com/aryan-r22)
+        > * [Vardhan Paliwal](https://github.com/Vardhan-08)
 
-1. [LA-Fresco in Pocket](https://github.com/BugsBunny1812/LA-Fresco-In-Pocket)
-    * #### *Contributers*
-        > * [Lokesh Singla](https://Github.com/lokesh-singla)
-        > * [Krishanu Saini](https://Github.com/krishanu-2001)
-        > * [Harshit Diyundi](https://Github.com/BugsBunny1812)
-        > * [Abhishek Bansal](https://github.com/abhishek593)
-        > * [Abhinav Aman](https://github.com/abhinav29aman)
-        > * [Amit Anand](https://github.com/anandamit07)
-        > * [Yash Suvarna](https://github.com/yshsuvarna)
-    * #### *Mentors*
-        > * [Akshay Prakash](https://Github.com/Aksh7706)
-1. [Covid-19 Live Tracker](http://github.com/pranjall29/covid-19-project)
-    * #### *Contributers*
-        > * [Pranjal Gadge](https://Github.com/pranjall29)
-        > * [Brahmadev Rai Shrivastava](https://Github.com/BruhMadev)
-        > * [Yuvraj Singh](https://Github.com/radicalidol)
-        > * [Vishal Thakre](https://github.com/the-thakre)
-        > * [Abhinav Aman](https://github.com/abhinav29aman)
-        > * [Mithila Sonar](https://github.com/Mithila28)
-        > * [Rashtra Damahe](https://github.com/rashtra83)
-    * #### *Mentors*
-        > * [Mrigank Krishan](https://Github.com/Mrigank11)
-1. [GreasySpoon](https://github.com/akashg3627/greasyspoon/)
-    * #### *Contributers*
-        > * [Akash Gupta](https://Github.com/akashg3627)
-        > * [Dipin Garg](https://Github.com/dgargdipin)
-        > * [Harsh Kushwaha](https://Github.com/hk-2102)
-        > * [Siddesh Shelke](https://github.com/sids-09)
-    * #### *Mentors*
-        > * [Anmol Gomra](https://Github.com/pineapple45)
-        > * [Gaurav Kumar](https://Github.com/Gaurav1327)
-1. [eDOC@IITI](https://github.com/im-world/eDoc-IITI)
-     * #### *Contributers*
-        > * [Eshaan Sachdeva](https://Github.com/sachdevaeshaan)
-        > * [Ashish raj](https://Github.com/AshishRajIITI)
-        > * [Priyal dubey](https://Github.com/priyalweb)
-        > * [Vineet Tripathi](https://github.com/vineet-chelsea)
-        > * [Siddhant Rathi]()
-        > * [Sagar Shirish Joshi]()
-        > * [Mounika](https://Github.com/67456039)
-    * #### *Mentors*
-        > * [Sarthak Jain](https://Github.com/jains8844)
-        > * [Anmol Gomra](https://Github.com/pineapple45)
-1. [3dVolume-Area Calculator](https://github.com/gg-dev-05/3dVolume-Area)
-     * #### *Contributers*
-        > * [Jigyanshu](https://Github.com/Jigyanshu26)
-        > * [Harsh](https://Github.com/harshb910)
-        > * [Garvit Galgat](https://Github.com/gg-dev-05)
-        > * [Somya Mehta]()
-        > * [Divyansh Maheshwari]()
-        > * [Anushk Gautam]()
-    * #### *Mentors*
-        > * [Adarsh Baghel](https://Github.com/Amagnum)
-        > * [Harshil Bhavsar](https://Github.com/bhavsarharshil)
-
-1. [Contest tracker](https://github.com/Darkrevenger-crypto/Contest)
-    * #### *Contributers*
-        > * [Vivek Bhushan](https://Github.com/vvkbhshn)
-        > * [Rahul Kumar](https://Github.com/ronnie-36)
-        > * [Neelanshu Garg](https://Github.com/Darkrevenger-crypto)
-        > * [Tushar Tiwari](https://Github.com/tushartiwariofficial)
-        > * [Piyush Pachori](https://Github.com/piyush8822)
-        > * [Bhoomil Gohel](https://Github.com/bhoomilsgohel)
-        > * [Anubhav Singh](https://Github.com/singh_anubhav)
-        > * [Neel Parikh](https://Github.com/neel_951)
-        > * [Manav Trivedi](https://Github.com/manavstg2)
-        > * [Sudhanshu](https://Github.com/papaishere)
-    * #### *Mentors*
-        > * [Saloni Sawarkar](https://Github.com/Salonii02 )
-        > * [Anmol Gomra](https://Github.com/pineapple45)
-1. [Responsive image gallery](https://github.com/pineapple45/IITISoC---Responsive-Image-gallery)
-    * #### *Contributers*
-        > * [Sumer Thakur](https://Github.com/SumerThakur)
-        > * [Kuldeep Singh](https://Github.com/Kuldeep28-star)
-        > * [Mohit Kumar](https://Github.com/kumarmohit-28)
-        > * [Shreya Deep](https://Github.com/ayerhs7)
-        > * [Anjali Singhal](https://Github.com/anjiii-18)
-        > * [Sakshi Verma](https://Github.com/SV-0)
-        > * [Sakshi Pandey](https://Github.com/sakshi012000)
-        > * [Pallavi Upadhyay](https://Github.com/pallavi-1812)
-    * #### *Mentors*
-        > * [Anmol Gomra](https://Github.com/pineapple45)
-1. [Locating Blood Donation Centre](https://github.com/anjali7786/Blood-Bank.git)
-    * #### *Contributers*
-        > * [Anjali Gupta](https://Github.com/anjali7786)
-        > * [Anupama Sureshbabu K.](https://Github.com/ankh77sb)
-        > * [Rama Edlabadkar.  ](https://Github.com/skybluee2001)
-        > * [Lekshmi S sunil](https://Github.com/lekshmissunil)
-        > * [Rahul Kumar](https://Github.com/rahul11820)
-        > * [Shubham Nimesh](https://Github.com/SV-0)
-    * #### *Mentors*
-        > * [Abhishek Kumar](https://Github.com/abhishek-kr-01)
-1. [Android smart school system](https://github.com/supersaiyan1033/Android_smartschool_system)
-    * #### *Contributers*
-        > * [Makula Nitin Krishna](https://Github.com/supersaiyan1033)
-        > * [Revanth thota](https://Github.com/revanththota)
-        > * [Abhiram khajjayam](https://Github.com/Abhiram0201)
-        > * [Kola sai ram]()
-        > * [Digvijay Singh Rathore](https://Github.com/CoderRaja1234)
-        > * [Harshwardhan Agrawal](https://Github.com/derco19)
-        > * [Yash Gupta ](https://Github.com/yash352)
-        > * [Atul Prajapati](https://Github.com/Atul-source)
-    * #### *Mentors*
-        > * [Adarsh Baghel](https://Github.com/Amagnum)
-        > * [Harshil Bhavsar](https://Github.com/bhavsarharshil)
-1. [Online Code Editor](https://github.com/Vinesh0299/online-code-editor)
-    * #### *Contributers*
-        > * [Anushka Paul](https://Github.com/anushka1309paul )
-        > * [Deepika Sukhija](https://Github.com/DEEPIKA-SUK)
-        > * [Deepali Sukhija](https://Github.com/DEEPALI-SUK)
-        > * [Vinesh Katewa](https://github.com/vinesh0299)
-        > * [Rhisav Raj](http://github.com/Rishavraj99)
-        > * [Rohit Bankar](https://github.com/RohitBankar17)
-        > * [Rishabh Kumar yadav](https://github.com/rky673)
-    * #### *Mentors*
-        > * [Adarsh Baghel](https://Github.com/Amagnum)
-        > * [Gaurav Kumar](https://Github.com/Gaurav1327)
+3. [Image Captioning/ Video Summarizer](https://github.com/sid521/ML8-ImageCaptioning)
+#Description:# Caption an image using DNN (Transfer Learning). Additionally, this project
+can be extended to Video Summarization using NLP.
+    * #### *Team ML8 Contributers*
+        > * [Aditya Gouroju]()
+        > * [Potu Sidhartha Reddy]()
+        > * [PVSK Siddhardha]()
+    * #### *Mentors ML8*
+        > * [Aryan Rastogi](http://github.com/aryan-r22)
+        > * [Bharat Kumar Gupta](https://github.com/bharat18001)
+        > * [Kashish Bansal](https://www.github.com/kashi-123)
+        > * [Sakshee Patil](https://github.com/Sakshee5)
+4.a. [Stone, Paper, Scissors](https://github.com/tanishq150802/ML7-RockPaperScissorGAME)
+#Description:# Implement simple game using CV.
+    * #### *Team ML7 Contributers*
+        > * [Tanishq Selot]()
+        > * [Kshitij M Bhat]()
+        > * [Bhavya Dalal]()
+    * #### *Mentors ML7*
+        > * [Aryan Rastogi](http://github.com/aryan-r22)
+        > * [Bharat Kumar Gupta](https://github.com/bharat18001)
+        > * [Kashish Bansal](https://www.github.com/kashi-123)
+        > * [Sakshee Patil](https://github.com/Sakshee5)
+4.b. [Stone, Paper, Scissors](https://github.com/anir-ab/ML18_Rock-Paper-Scissors-using-CV)
+#Description:# Implement simple game using CV.
+    * #### *Team ML18 Contributers*
+        > * [Anirudha Bhagwat]()
+        > * [Aditya Handa]()
+        > * [Rounak Jain]()
+    * #### *Mentors ML18*
+        > * [Bharat Kumar Gupta](https://github.com/bharat18001)
+        > * [Pranjal Gadge](https://github.com/pranjall29)
+        > * [Siddhesh Shelke](http://github.com/sids-09)
+4.c. [Stone, Paper, Scissors](https://github.com/dedeepya2608/ML_19-ROCK_PAPER_SCISSORS)
+#Description:# Implement simple game using CV.
+     * #### *Team ML19 Contributers*
+        > * [Divya Dedeepya Ankam]()
+        > * [Abhinav Lade]()
+        > * [Yash Mohan]()
+        > * [Valsa Preetham]()
+    * #### *Mentors ML19*
+        > * [Bharat Kumar Gupta](https://github.com/bharat18001)
+        > * [Pranjal Gadge](https://github.com/pranjall29)
+        > * [Siddhesh Shelke](http://github.com/sids-09)
+5.a. [Face Mask Detecttion](https://github.com/MihirK1212/ML4_Face-Mask-Detection)
+#Description:# Detects whether a person is wearing a face mask or not.
+     * #### *Team ML4 Contributers*
+        > * [Mihir Karandikar]()
+        > * [Ayush Sinha]()
+        > * [Nilay Ganvit]()
+        > * [Akshat Nahata]()
+    * #### *Mentors ML4*
+        > * [Pranjal Gadge](https://github.com/pranjall29)
+        > * [Rama Edlabadkar](https://github.com/skybluee2001)
+        > * [Siddhesh Shelke](http://github.com/sids-09)
+5.b. [Face Mask Detecttion](https://github.com/Paarth002/Face-Mask-Detection)
+#Description:# Detects whether a person is wearing a face mask or not.
+    * #### *Team ML5 Contributers*
+        > * [Parth Bhore](https://Github.com/vvkbhshn)
+        > * [Nishchay Shroff](https://Github.com/ronnie-36)
+        > * [Atharva Mohite](https://Github.com/Darkrevenger-crypto)
+    * #### *Mentors ML5*
+        > * [Pranjal Gadge](https://github.com/pranjall29)
+        > * [Rama Edlabadkar](https://github.com/skybluee2001)
+        > * [Siddhesh Shelke](http://github.com/sids-09)
+5.c. [Face Mask Detecttion](https://github.com/Sahas17/ML6-Face-Mask-Detection.git)
+#Description:# Detects whether a person is wearing a face mask or not.
+    * #### *Team ML6 Contributers*
+        > * [Omkar singh]()
+        > * [Byri Sahas Reddy]()
+    * #### *Mentors ML6*
+        > * [Pranjal Gadge](https://github.com/pranjall29)
+        > * [Rama Edlabadkar](https://github.com/skybluee2001)
+        > * [Siddhesh Shelke](http://github.com/sids-09)
+6.a. [Loan Status Prediction](https://github.com/Harshith1302/ML13_LoanStatusPrediction)
+#Description:# Predicts whether the user got the loan or not based on the features like
+education, marital status, income, dependents etc.
+    * #### *Team ML13 Contributers*
+        > * [Nakka Shankar]()
+        > * [Padma Harshith]()
+        > * [Madishetty Karthikeya]()
+        > * [Aditi Thakur]()
+    * #### *Mentors ML13*
+        > * [Manav Trivedi](https://github.com/manavspg2)
+        > * [Sakshi Pandey](https://github.com/sakshi012000)
+6.b. [Loan Status Prediction](https://github.com/Safdar16/ML14_Loan_Status.git)
+#Description:# Predicts whether the user got the loan or not based on the features like
+education, marital status, income, dependents etc.
+    * #### *Team ML14 Contributers*
+        > * [Nikhil Raizada]()
+        > * [Safdar Wahid Inamdar]()
+        > * [Ashutosh Nayak]()
+    * #### *Mentors ML14*
+        > * [Manav Trivedi](https://github.com/manavspg2)
+        > * [Sakshi Pandey](https://github.com/sakshi012000)
+7.a. [Recommendation System with Spoiler Detection](https://github.com/a1-njos3/ML15_Recommendation-System-with-Spoiler-Detection)
+#Description:# Can additionally do spoiler detection in reviews and hiding(some web dev related stuff).
+    * #### *Team ML15 Contributers*
+        > * [Alan Jose]()
+        > * [Aayushi Chaubey]()
+        > * [Chinmayi Adoni]()
+    * #### *Mentors ML15*
+        > * [Pranjal Gadge](https://github.com/pranjall29)
+        > * [Rama Edlabadkar](https://github.com/skybluee2001)
+7.b. [Recommendation System with Spoiler Detection](https://github.com/Saurav-Raghaw/ML16-Recommendation-Sysytem)
+#Description:# Can additionally do spoiler detection in reviews and hiding(some web dev related stuff).
+    * #### *Team ML16 Contributers*
+        > * [Saurav Kumar]()
+        > * [Rupesh Kumar]()
+        > * [Swastik Saxena]()
+    * #### *Mentors ML16*
+        > * [Pranjal Gadge](https://github.com/pranjall29)
+        > * [Rama Edlabadkar](https://github.com/skybluee2001)
+8. [Ads Click-Through Rate (CTR) Prediction](https://github.com/Yeeshukant/TeamCTR_CTR-prediction-using-ML-algorithms)
+    * #### *Team ML11 Contributers*
+        > * [Yeeshukant Singh]()
+        > * [Nakshatram Shreyas]()
+        > * [Alakh Rathore]()
+        > * [Roshan Patidar]()
+    * #### *Mentors ML11*
+        > * [Manav Trivedi](https://github.com/manavspg2)
+        > * [Rahul Kumar](https://github.com/ronnie-36)
+9.a. [Face Recognition](https://github.com/Nischit290402/Face_Recog.git)
+#Description:# Recognize faces in an image using one shot learning. Additionally, develop
+a web interface for the same.
+    * #### *Team ML9 Contributers*
+        > * [Nischit H]()
+        > * [Karri Trivedi]()
+        > * [Ramakrishna]()
+    * #### *Mentors ML9*
+        > * [Anjali Singhal](https://github.com/anjiii-18)
+        > * [Bharat Kumar Gupta](https://github.com/bharat18001)
+        > * [Miten Shah](http://github.com/mtnshh)
+9.b. [Face Recognition](https://github.com/ML10-Project/Face-Recognition)
+#Description:# Recognize faces in an image using one shot learning. Additionally, develop
+a web interface for the same.
+    * #### *Team ML10 Contributers*
+        > * [Amit Kumar Makkad]()
+        > * [Bhavya Contractor]()
+        > * [Priyansh Jaseja]()
+    * #### *Mentors ML10*
+        > * [Anjali Singhal](https://github.com/anjiii-18)
+        > * [Bharat Kumar Gupta](https://github.com/bharat18001)
+        > * [Miten Shah](http://github.com/mtnshh)
+10. [AI Chatbot](https://github.com/me190003017/AI-CHAT-BOT)
+#Description:# An AI chatbot to answer all the queries related to IIT Indore.
+    * #### *Team ML17 Contributers*
+        > * [Bhupendra Singh]()
+        > * [Shravan Roy]()
+    * #### *Team ML17 Mentors*
+        > * [Sakshi Pandey](https://github.com/sakshi012000)
+        > * [Siddhesh Shelke](http://github.com/sids-09)
