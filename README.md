@@ -30,9 +30,9 @@ IITISoC'21 is the annual dev fest of IIT Indore which provides various opportuni
 
 ## List of Projects (AI/ML)
 1. [News Articles Summarizer in Multiple Languages](https://github.com/snehithchinta/ML3-News-Article-Summarizer)
-: Develop an effective end to end solution which accepts informative articles
-in common languages used in India and summarizes them with a proper headline.
-Further, as an addition, it should also be able to answer questions regarding the article
+: An effective end to end solution which accepts informative articles
+in foreign languages, and summarizes them with a proper headline.
+Further as an addition, it should also be able to answer questions regarding the article
 to the user.
     * #### *Contributors*
         > * [Snehith Chinta]()
@@ -54,8 +54,8 @@ able to detect emotions in the underlying text.
         > * [Vardhan Paliwal](https://github.com/Vardhan-08)
 
 3. [Image Captioning/ Video Summarizer](https://github.com/sid521/ML8-ImageCaptioning)
-: Caption an image using DNN (Transfer Learning). Additionally, this project
-can be extended to Video Summarization using NLP.
+: Captions an image using DNN with an Encoder-Decoder architecture. Additionally, it also
+extends to Video Summarization using NLP.
     * #### *Contributors*
         > * [Aditya Gouroju]()
         > * [Potu Sidhartha Reddy]()
@@ -66,7 +66,7 @@ can be extended to Video Summarization using NLP.
         > * [Kashish Bansal](https://www.github.com/kashi-123)
         > * [Sakshee Patil](https://github.com/Sakshee5)
 4. [Stone, Paper, Scissors](https://github.com/tanishq150802/ML7-RockPaperScissorGAME)
-: Implement simple game using CV.
+: Implements a simple but fun game using CV.
     * #### *Contributors*
         > * [Tanishq Selot]()
         > * [Kshitij M Bhat]()
@@ -77,7 +77,7 @@ can be extended to Video Summarization using NLP.
         > * [Kashish Bansal](https://www.github.com/kashi-123)
         > * [Sakshee Patil](https://github.com/Sakshee5)
 5. [Stone, Paper, Scissors](https://github.com/anir-ab/ML18_Rock-Paper-Scissors-using-CV)
-: Implement simple game using CV.
+: Implements a simple but fun game using CV.
     * #### *Contributors*
         > * [Anirudha Bhagwat]()
         > * [Aditya Handa]()
@@ -87,7 +87,7 @@ can be extended to Video Summarization using NLP.
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Siddhesh Shelke](http://github.com/sids-09)
 6. [Stone, Paper, Scissors](https://github.com/dedeepya2608/ML_19-ROCK_PAPER_SCISSORS)
-: Implement simple game using CV.
+: Implements a simple but fun game using CV.
      * #### *Contributors*
         > * [Divya Dedeepya Ankam]()
         > * [Abhinav Lade]()
@@ -149,7 +149,7 @@ education, marital status, income, dependents etc.
         > * [Manav Trivedi](https://github.com/manavspg2)
         > * [Sakshi Pandey](https://github.com/sakshi012000)
 12. [Recommendation System with Spoiler Detection](https://github.com/a1-njos3/ML15_Recommendation-System-with-Spoiler-Detection)
-: Can additionally do spoiler detection in reviews and hiding(some web dev related stuff).
+: Implements a Movie Recommendation System using Machine Learning. Also consists of Spolier Detection as an addition.  
     * #### *Contributors*
         > * [Alan Jose]()
         > * [Aayushi Chaubey]()
@@ -158,7 +158,7 @@ education, marital status, income, dependents etc.
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Rama Edlabadkar](https://github.com/skybluee2001)
 13. [Recommendation System with Spoiler Detection](https://github.com/Saurav-Raghaw/ML16-Recommendation-Sysytem)
-: Can additionally do spoiler detection in reviews and hiding(some web dev related stuff).
+: Implements a Movie Recommendation System using Machine Learning. Also consists of Spolier Detection as an addition.  
     * #### *Contributors*
         > * [Saurav Kumar]()
         > * [Rupesh Kumar]()
@@ -167,7 +167,7 @@ education, marital status, income, dependents etc.
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Rama Edlabadkar](https://github.com/skybluee2001)
 14. [Ads Click-Through Rate (CTR) Prediction](https://github.com/Yeeshukant/TeamCTR_CTR-prediction-using-ML-algorithms)
-: Given a user and the page he (or she) is visiting, find the probability that he
+: Given a user and the page he (or she) is visiting, this project aims to find the probability that he
 (or she) will click on a given ad. The goal of this analysis is to benchmark the most
 accurate ML algorithms for CTR estimation.
     * #### *Contributors*
@@ -179,7 +179,7 @@ accurate ML algorithms for CTR estimation.
         > * [Manav Trivedi](https://github.com/manavspg2)
         > * [Rahul Kumar](https://github.com/ronnie-36)
 15. [Face Recognition](https://github.com/Nischit290402/Face_Recog.git)
-: Recognize faces in an image using one shot learning. Additionally, develop
+: Recognizes faces in an image using one shot learning. Additionally, it consists of
 a web interface for the same.
     * #### *Contributors*
         > * [Nischit H]()
@@ -190,7 +190,7 @@ a web interface for the same.
         > * [Bharat Kumar Gupta](https://github.com/bharat18001)
         > * [Miten Shah](http://github.com/mtnshh)
 16. [Face Recognition](https://github.com/ML10-Project/Face-Recognition)
-: Recognize faces in an image using one shot learning. Additionally, develop
+: Recognizes faces in an image using one shot learning. Additionally, it consists of
 a web interface for the same.
     * #### *Contributors*
         > * [Amit Kumar Makkad]()
