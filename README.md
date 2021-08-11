@@ -34,7 +34,7 @@ IITISoC'21 is the annual dev fest of IIT Indore which provides various opportuni
 in foreign languages, and summarizes them with a proper headline.
 Further as an addition, it should also be able to answer questions regarding the article
 to the user.
-* ### Team Code-ML3
+* ## Team Code-ML3
     * #### *Team ML3 Contributors*
         > * [Snehith Chinta](https://github.com/snehithchinta)
         > * [Kothuru Sharvani](https://github.com/Sharvani26)
