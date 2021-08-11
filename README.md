@@ -35,10 +35,10 @@ in foreign languages, and summarizes them with a proper headline.
 Further as an addition, it should also be able to answer questions regarding the article
 to the user.
     * #### *Team ML3 Contributors*
-        > * [Snehith Chinta]()
-        > * [Kothuru Sharvani]()
-        > * [Shivani Rajaputhra]()
-        > * [Siddartha Chennareddy]()
+        > * [Snehith Chinta](https://github.com/snehithchinta)
+        > * [Kothuru Sharvani](https://github.com/Sharvani26)
+        > * [Shivani Rajaputhra](https://github.com/rs-2206)
+        > * [Siddartha Chennareddy](https://github.com/SiddarthaCh)
     * #### *Mentors ML3*
         > * [Aryan Rastogi](http://github.com/aryan-r22)
         > * [Vardhan Paliwal](https://github.com/Vardhan-08)
@@ -46,9 +46,9 @@ to the user.
 : A model to gauge Sentiment of a given text/review. Additionally, it must be
 able to detect emotions in the underlying text.
      * #### *Team ML1 Contributors*
-        > * [Sanjit Vyas]()
-        > * [Abhijit Panda]()
-        > * [Nilay Kushawaha]()
+        > * [Sanjit Vyas](https://github.com/Itachi666IM)
+        > * [Abhijit Panda](https://github.com/abhijitpanda890)
+        > * [Nilay Kushawaha](https://github.com/abhijitpanda890/ML1-Sentiment-analysis-and-emotion-detection-.git)
     * #### *Mentors ML1*
         > * [Aryan Rastogi](http://github.com/aryan-r22)
         > * [Vardhan Paliwal](https://github.com/Vardhan-08)
@@ -57,9 +57,9 @@ able to detect emotions in the underlying text.
 : Captions an image using DNN with an Encoder-Decoder architecture. Additionally, it also
 extends to Video Summarization using NLP.
     * #### *Team ML8 Contributors*
-        > * [Aditya Gouroju]()
-        > * [Potu Sidhartha Reddy]()
-        > * [PVSK Siddhardha]()
+        > * [Aditya Gouroju](https://github.com/StrawHat369)
+        > * [Potu Sidhartha Reddy](https://github.com/sid521)
+        > * [PVSK Siddhardha](https://github.com/pepetikesavasiddhardha)
     * #### *Mentors ML8*
         > * [Aryan Rastogi](http://github.com/aryan-r22)
         > * [Bharat Kumar Gupta](https://github.com/bharat18001)
@@ -68,9 +68,9 @@ extends to Video Summarization using NLP.
 4. [Stone, Paper, Scissors](https://github.com/tanishq150802/ML7-RockPaperScissorGAME)
 : Implements a simple but fun game using CV.
     * #### *Team ML7 Contributors*
-        > * [Tanishq Selot]()
-        > * [Kshitij M Bhat]()
-        > * [Bhavya Dalal]()
+        > * [Tanishq Selot](https://github.com/tanishq150802)
+        > * [Kshitij M Bhat](https://github.com/KshitijBhat)
+        > * [Bhavya Dalal](https://github.com/dalalbhavya)
     * #### *Mentors ML7*
         > * [Aryan Rastogi](http://github.com/aryan-r22)
         > * [Bharat Kumar Gupta](https://github.com/bharat18001)
@@ -79,9 +79,9 @@ extends to Video Summarization using NLP.
 5. [Stone, Paper, Scissors](https://github.com/anir-ab/ML18_Rock-Paper-Scissors-using-CV)
 : Implements a simple but fun game using CV.
     * #### *Team ML18 Contributors*
-        > * [Anirudha Bhagwat]()
-        > * [Aditya Handa]()
-        > * [Rounak Jain]()
+        > * [Anirudha Bhagwat](https://github.com/anir-ab)
+        > * [Aditya Handa](https://github.com/anir-ab/ML18_Rock-Paper-Scissors-using-CV)
+        > * [Rounak Jain](https://github.com/anir-ab/ML18_Rock-Paper-Scissors-using-CV)
     * #### *Mentors ML18*
         > * [Bharat Kumar Gupta](https://github.com/bharat18001)
         > * [Pranjal Gadge](https://github.com/pranjall29)
@@ -89,10 +89,10 @@ extends to Video Summarization using NLP.
 6. [Stone, Paper, Scissors](https://github.com/dedeepya2608/ML_19-ROCK_PAPER_SCISSORS)
 : Implements a simple but fun game using CV.
      * #### *Team ML19 Contributors*
-        > * [Divya Dedeepya Ankam]()
-        > * [Abhinav Lade]()
-        > * [Yash Mohan]()
-        > * [Valsa Preetham]()
+        > * [Divya Dedeepya Ankam](https://github.com/dedeepya2608)
+        > * [Abhinav Lade](https://github.com/dedeepya2608/ML_19-ROCK_PAPER_SCISSORS)
+        > * [Yash Mohan](https://github.com/Y-me-08)
+        > * [Valsa Preetham](https://github.com/dedeepya2608/ML_19-ROCK_PAPER_SCISSORS)
     * #### *Mentors ML19*
         > * [Bharat Kumar Gupta](https://github.com/bharat18001)
         > * [Pranjal Gadge](https://github.com/pranjall29)
@@ -100,10 +100,10 @@ extends to Video Summarization using NLP.
 7. [Face Mask Detection](https://github.com/MihirK1212/ML4_Face-Mask-Detection)
 : Detects whether a person is wearing a face mask or not.
      * #### *Team ML4 Contributors*
-        > * [Mihir Karandikar]()
-        > * [Ayush Sinha]()
-        > * [Nilay Ganvit]()
-        > * [Akshat Nahata]()
+        > * [Mihir Karandikar](https://github.com/MihirK1212/ML4_Face-Mask-Detection)
+        > * [Ayush Sinha](https://github.com/MihirK1212/ML4_Face-Mask-Detection)
+        > * [Nilay Ganvit](https://github.com/NilayGanvit)
+        > * [Akshat Nahata](https://github.com/akshatnahata)
     * #### *Mentors ML4*
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Rama Edlabadkar](https://github.com/skybluee2001)
@@ -111,9 +111,9 @@ extends to Video Summarization using NLP.
 8. [Face Mask Detecttion](https://github.com/Paarth002/Face-Mask-Detection)
 : Detects whether a person is wearing a face mask or not.
     * #### *Team ML5 Contributors*
-        > * [Parth Bhore](https://Github.com/vvkbhshn)
-        > * [Nishchay Shroff](https://Github.com/ronnie-36)
-        > * [Atharva Mohite](https://Github.com/Darkrevenger-crypto)
+        > * [Parth Bhore](https://github.com/Paarth002)
+        > * [Nishchay Shroff](https://github.com/Paarth002/Face-Mask-Detection)
+        > * [Atharva Mohite](https://Github.com/atharva-mohite)
     * #### *Mentors ML5*
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Rama Edlabadkar](https://github.com/skybluee2001)
@@ -121,8 +121,8 @@ extends to Video Summarization using NLP.
 9. [Face Mask Detecttion](https://github.com/Sahas17/ML6-Face-Mask-Detection.git)
 : Detects whether a person is wearing a face mask or not.
     * #### *Team ML6 Contributors*
-        > * [Omkar singh]()
-        > * [Byri Sahas Reddy]()
+        > * [Omkar singh](https://github.com/Sahas17/ML6-Face-Mask-Detection.git)
+        > * [Byri Sahas Reddy](https://github.com/Sahas17)
     * #### *Mentors ML6*
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Rama Edlabadkar](https://github.com/skybluee2001)
@@ -131,10 +131,10 @@ extends to Video Summarization using NLP.
 : Predicts whether the user got the loan or not based on the features like
 education, marital status, income, dependents etc.
     * #### *Team ML13 Contributors*
-        > * [Nakka Shankar]()
-        > * [Padma Harshith]()
-        > * [Madishetty Karthikeya]()
-        > * [Aditi Thakur]()
+        > * [Nakka Shankar](https://github.com/Harshith1302/ML13_LoanStatusPrediction)
+        > * [Padma Harshith](https://github.com/Harshith1302)
+        > * [Madishetty Karthikeya](https://github.com/Harshith1302/ML13_LoanStatusPrediction)
+        > * [Aditi Thakur](https://github.com/Harshith1302/ML13_LoanStatusPrediction)
     * #### *Mentors ML13*
         > * [Manav Trivedi](https://github.com/manavspg2)
         > * [Sakshi Pandey](https://github.com/sakshi012000)
@@ -142,27 +142,27 @@ education, marital status, income, dependents etc.
 : Predicts whether the user got the loan or not based on the features like
 education, marital status, income, dependents etc.
     * #### *Team ML14 Contributors*
-        > * [Nikhil Raizada]()
-        > * [Safdar Wahid Inamdar]()
-        > * [Ashutosh Nayak]()
+        > * [Nikhil Raizada](https://github.com/nikhilr12)
+        > * [Safdar Wahid Inamdar](https://github.com/85946830)
+        > * [Ashutosh Nayak](https://github.com/Ashutosh-Nayak-1)
     * #### *Mentors ML14*
         > * [Manav Trivedi](https://github.com/manavspg2)
         > * [Sakshi Pandey](https://github.com/sakshi012000)
 12. [Recommendation System with Spoiler Detection](https://github.com/a1-njos3/ML15_Recommendation-System-with-Spoiler-Detection)
 : Implements a Movie Recommendation System using Machine Learning. Also consists of Spolier Detection as an addition.  
     * #### *Team ML15 Contributors*
-        > * [Alan Jose]()
-        > * [Aayushi Chaubey]()
-        > * [Chinmayi Adoni]()
+        > * [Alan Jose](https://github.com/a1-njos3)
+        > * [Aayushi Chaubey](https://github.com/AayushiChoubey)
+        > * [Chinmayi Adoni](https://github.com/a1-njos3/ML15_Recommendation-System-with-Spoiler-Detection)
     * #### *Mentors ML15*
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Rama Edlabadkar](https://github.com/skybluee2001)
 13. [Recommendation System with Spoiler Detection](https://github.com/Saurav-Raghaw/ML16-Recommendation-Sysytem)
 : Implements a Movie Recommendation System using Machine Learning. Also consists of Spolier Detection as an addition.  
     * #### *Team ML16 Contributors*
-        > * [Saurav Kumar]()
-        > * [Rupesh Kumar]()
-        > * [Swastik Saxena]()
+        > * [Saurav Kumar](https://github.com/Saurav-Raghaw)
+        > * [Rupesh Kumar](https://github.com/rupeshkmr)
+        > * [Swastik Saxena](https://github.com/sswastik630)
     * #### *Mentors ML16*
         > * [Pranjal Gadge](https://github.com/pranjall29)
         > * [Rama Edlabadkar](https://github.com/skybluee2001)
@@ -171,10 +171,10 @@ education, marital status, income, dependents etc.
 (or she) will click on a given ad. The goal of this analysis is to benchmark the most
 accurate ML algorithms for CTR estimation.
     * #### *Team ML11 Contributors*
-        > * [Yeeshukant Singh]()
-        > * [Nakshatram Shreyas]()
-        > * [Alakh Rathore]()
-        > * [Roshan Patidar]()
+        > * [Yeeshukant Singh](https://github.com/Yeeshukant)
+        > * [Nakshatram Shreyas](https://github.com/shreyasnax2451)
+        > * [Alakh Rathore](https://github.com/Yeeshukant/TeamCTR_CTR-prediction-using-ML-algorithms)
+        > * [Roshan Patidar](https://github.com/Yeeshukant/TeamCTR_CTR-prediction-using-ML-algorithms)
     * #### *Mentors ML11*
         > * [Manav Trivedi](https://github.com/manavspg2)
         > * [Rahul Kumar](https://github.com/ronnie-36)
@@ -182,9 +182,9 @@ accurate ML algorithms for CTR estimation.
 : Recognizes faces in an image using one shot learning. Additionally, it consists of
 a web interface for the same.
     * #### *Team ML9 Contributors*
-        > * [Nischit H]()
-        > * [Karri Trivedi]()
-        > * [Ramakrishna]()
+        > * [Nischit H](https://github.com/Nischit290402)
+        > * [Karri Trivedi](https://github.com/Trivedk)
+        > * [Ramakrishna](https://github.com/Nischit290402/Face_Recog.git)
     * #### *Mentors ML9*
         > * [Anjali Singhal](https://github.com/anjiii-18)
         > * [Bharat Kumar Gupta](https://github.com/bharat18001)
@@ -193,9 +193,9 @@ a web interface for the same.
 : Recognizes faces in an image using one shot learning. Additionally, it consists of
 a web interface for the same.
     * #### *Team ML10 Contributors*
-        > * [Amit Kumar Makkad]()
-        > * [Bhavya Contractor]()
-        > * [Priyansh Jaseja]()
+        > * [Amit Kumar Makkad](https://github.com/amitmakkad)
+        > * [Bhavya Contractor](https://github.com/bhavyacontractor)
+        > * [Priyansh Jaseja](https://github.com/ML10-Project/Face-Recognition)
     * #### *Mentors ML10*
         > * [Anjali Singhal](https://github.com/anjiii-18)
         > * [Bharat Kumar Gupta](https://github.com/bharat18001)
@@ -203,8 +203,8 @@ a web interface for the same.
 17. [AI Chatbot](https://github.com/me190003017/AI-CHAT-BOT)
 : An AI chatbot to answer all the queries related to IIT Indore.
     * #### *Team ML17 Contributors*
-        > * [Bhupendra Singh]()
-        > * [Shravan Roy]()
+        > * [Bhupendra Singh](https://github.com/me190003017)
+        > * [Shravan Roy](https://github.com/me190003017/AI-CHAT-BOT)
     * #### *Mentors ML17*
         > * [Sakshi Pandey](https://github.com/sakshi012000)
         > * [Siddhesh Shelke](http://github.com/sids-09)
