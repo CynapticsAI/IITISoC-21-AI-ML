@@ -29,7 +29,7 @@ IITISoC'21 is the annual dev fest of IIT Indore which provides various opportuni
 
 
 ## List of Projects (AI/ML)
-1. [News Articles Summarizer in Multiple Languages](https://github.com/snehithchinta/ML3-News-Article-Summarizer)
+1. **[News Articles Summarizer in Multiple Languages](https://github.com/snehithchinta/ML3-News-Article-Summarizer)**
 : An effective end to end solution which accepts informative articles
 in foreign languages, and summarizes them with a proper headline.
 Further as an addition, it should also be able to answer questions regarding the article
