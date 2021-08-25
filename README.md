@@ -11,7 +11,7 @@ IITISoC'21 is the annual dev fest of IIT Indore which provides various opportuni
 
 ## Coordinators 
 * [Akash Gupta](https://github.com/akashg3627) (President, The Programming Club)  
-* [Aryan Rastogi](https://github.com/aryan-r22) (President, The Cynpatics Club)  
+* [Aryan Rastogi](https://github.com/aryan-r22) (President, The Cynaptics Club)  
 
 ---
 
